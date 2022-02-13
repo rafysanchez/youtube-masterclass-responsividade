@@ -35,7 +35,7 @@ Textos fixos
 
 Texto fluidos
 `em` - multiplicado pelo pai  - tag antecedete onde esta tag esta incluida
-`rem` - multiplicado pelo root
+`rem` - multiplicado pelo root - fonte de definida na tag body
 
 ## CSS Media Queries 
 
