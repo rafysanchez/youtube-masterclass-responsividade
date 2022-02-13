@@ -34,7 +34,7 @@ Textos fixos
 `16px` = 12pt
 
 Texto fluidos
-`em` - multiplicado pelo pai 
+`em` - multiplicado pelo pai  - tag antecedete onde esta tag esta incluida
 `rem` - multiplicado pelo root
 
 ## CSS Media Queries 
